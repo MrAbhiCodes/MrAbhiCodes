@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek Yadav
 
-<!--
-**MrAbhiCodes/MrAbhiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA AI & ML Student
 
-Here are some ideas to get you started:
+💻 Passionate about Python, Java, and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Exploring Artificial Intelligence and Machine Learning
+
+🚀 Learning, Building, and Growing Every Day
+
+## 🛠️ Skills
+
+- Python 🐍
+- Java ☕
+- HTML & CSS 🌐
+- JavaScript
+- Data Structures
+- Machine Learning
+
+## 📂 My Projects
+
+- Python Programs
+- Basic Calculator
+- Web Development Projects
+- AI & ML Projects
+
+## 🎯 Goal
+
+To become a skilled AI & Machine Learning Developer.
+
+---
+
+⭐ Thanks for visiting my profile!
